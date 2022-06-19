@@ -1,1 +1,1 @@
-Right now, I&#39;m listening to  Carly Rae Jepsen - Emotion
+Right now, I&#39;m listening to  Allie X - Regulars
