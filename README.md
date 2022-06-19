@@ -1,1 +1,1 @@
-30 minutes ago, I listened to  Miley Cyrus - Prisoner
+Right now, I&#39;m listening to  Taylor Swift - Blank Space
