@@ -1,1 +1,1 @@
-57 minutes ago, I listened to  Madonna - Hung Up
+1 hour ago, I listened to  Madonna - Hung Up
