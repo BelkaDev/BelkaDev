@@ -4,6 +4,6 @@
 
 
 <big><pre>
-Currently listening to  [Allie X - Sarah Come Home](https://google.com)</br></br>
+🎶 Currently listening to  [Allie X - Sarah Come Home](https://google.com)</br></br>
 </pre></big>
 
