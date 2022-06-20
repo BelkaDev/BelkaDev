@@ -1,6 +1,6 @@
 
 
-<img border="4" align="left" width="95" height="95" src="https:&#x2F;&#x2F;lastfm.freetls.fastly.net&#x2F;i&#x2F;u&#x2F;174s&#x2F;849eb78d8f7a3beabe3cb40150012317.jpg">
+<img align="left" width="100" height="100" src="https:&#x2F;&#x2F;lastfm.freetls.fastly.net&#x2F;i&#x2F;u&#x2F;174s&#x2F;849eb78d8f7a3beabe3cb40150012317.jpg">
 
 
 <big><pre>
