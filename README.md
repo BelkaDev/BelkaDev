@@ -1,1 +1,1 @@
-23 minutes ago, I listened to  Connie Francis - Siboney
+Right now, I&#39;m listening to  Connie Francis - Frankie
