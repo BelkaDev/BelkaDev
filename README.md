@@ -4,6 +4,6 @@
 
 
 <big><pre>
-🎵  Currently listening to  [Taylor Swift - Blank Space](https://google.com)</br></br>
+🎵  Currently listening to  [Taylor Swift - Blank Space](https://www.youtube.com/results?search_query=Taylor Swift Blank Space)</br></br>
 </pre></big>
 
