@@ -72,6 +72,8 @@ function getCurrentSong(callback) {
         const theTrack = data.recenttracks.track[0]
         const theArtist = theTrack.artist['#text']
         let theTitle = theTrack.name
+        let thumbnail = theTrack.image
+        console.log(thumbnail[1]['#text'])
         const nowPlaying = theTrack['@attr'] && theTrack['@attr'].nowplaying
         let listenText = ''
         if (nowPlaying) {
@@ -91,6 +93,7 @@ function getCurrentSong(callback) {
         .trim()
         .substring(0, 32)
 DATA.listenText = listenText + ' ' + theArtist + ' - '+ theTitle
+DATA.thumbnail = thumbnail;
       });
   }
 
