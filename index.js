@@ -25,14 +25,6 @@ function getCurrentSong(callback) {
       }
       listenText = timeSinceText + " ago, I listened to ";
     }
-    /* split at the part in front of any hyphen or parenthese
-     * to take a song title like this:
-     *     (I Can't Get No) Satisfaction - Mono Version / Remastered 2002
-     * and turn it into:
-     *     (I Can't Get No) Satisfaction
-     * and also cut it off at 32 characters for those songs that be like:
-     *     Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 "Moonlight": I. Adagio sostenuto
-     */
     theTitle = theTitle.split(" - ")[0].split(" (")[0].trim().substring(0, 32);
     that.listenText = listenText;
     that.theTitle = theTitle;
