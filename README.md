@@ -1,1 +1,1 @@
-7 minutes ago, I listened to  Rina Sawayama - XS
+Right now, I&#39;m listening to  Carly Rae Jepsen - Boy Problems
