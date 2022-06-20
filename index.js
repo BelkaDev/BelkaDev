@@ -2,8 +2,8 @@ const Mustache = require("mustache");
 const fs = require("fs");
 const fetch = require("node-fetch");
 
-
 const MUSTACHE_MAIN_DIR = "./main.mustache";
+let DATA = {};
 
 function timeSince(date) {
   const seconds = Math.floor(new Date().getTime() / 1000 - date);
@@ -56,18 +56,6 @@ async function setTrackInformation() {
     });
 }
 
-let DATA = {
-  name: "Belka",
-  date: new Date().toLocaleDateString("en-GB", {
-    weekday: "long",
-    month: "long",
-    day: "numeric",
-    hour: "numeric",
-    minute: "numeric",
-    timeZoneName: "short",
-    timeZone: "Europe/Stockholm",
-  }),
-};
 async function generateReadMe() {
   await setTrackInformation();
   fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
