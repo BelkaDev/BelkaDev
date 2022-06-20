@@ -5,5 +5,5 @@
 </a>
 <big>
     <pre>
-</br><p align="left">▶️ Currently listening to <b><a href="https://www.youtube.com/results?search_query=Cocteau+Twins+Cherry-Coloured+Funk" target="_blank">Cocteau Twins - Cherry-Coloured Funk</a> 🔗</b></p>
+</br><p align="left">🎵🎶 Currently listening to <b><a href="https://www.youtube.com/results?search_query=Cocteau+Twins+Cherry-Coloured+Funk" target="_blank">Cocteau Twins - Cherry-Coloured Funk</a> 🔗</b></p>
 </pre></big>
