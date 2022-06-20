@@ -19,9 +19,7 @@ function getCurrentSong(callback) {
     if (nowPlaying) {
       listenText = "Right now, I'm listening to ";
     } else {
-      // converts 9712739817 ms to "4 minute" ago
       let timeSinceText = timeSince(theTrack.date.uts);
-      // if it's not 1, make it plural
       if (!timeSinceText.startsWith("1 ")) {
         timeSinceText += "s";
       }
