@@ -42,7 +42,6 @@ function getCurrentSong(callback) {
   });
 }
 
-// https://stackoverflow.com/a/8247097
 function timeSince(date) {
   const seconds = Math.floor(new Date().getTime() / 1000 - date);
   let interval = Math.floor(seconds / 31536000);
@@ -73,9 +72,7 @@ async function setWeatherInformation() {
       if (nowPlaying) {
         listenText = "Currently listening to ";
       } else {
-        // converts 9712739817 ms to "4 minute" ago
         let timeSinceText = timeSince(theTrack.date.uts);
-        // if it's not 1, make it plural
         if (!timeSinceText.startsWith("1 ")) {
           timeSinceText += "s";
         }
