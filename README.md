@@ -6,7 +6,7 @@
 <big><pre>
 
 
-Currently listening to  [Marina - Teen Idle](https://google.com))
+Currently listening to  [Marina - Teen Idle](https://google.com)
 
 ```diff 
 
