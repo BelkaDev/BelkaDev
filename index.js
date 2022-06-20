@@ -116,10 +116,7 @@ await setWeatherInformation();
   fs.readFile(MUSTACHE_MAIN_DIR, (err, data) =>  {
     if (err) throw err;
     const output = Mustache.render(data.toString(), DATA);
-    const previousListen = fs.readFileSync('BelkaDev/README.md').toString();
-    if (previousListen !== output) {
     fs.writeFileSync('README.md', output);
-    }
   });
 }
 generateReadMe();
