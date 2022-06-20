@@ -6,7 +6,7 @@
 
 ```Bash
 
-Right now I'm listening to Whatever - whatever
+Listening to Whatever - whatever
 
 ```
 
