@@ -3,7 +3,7 @@ const fs = require("fs");
 const fetch = require("node-fetch");
 
 const MUSTACHE_MAIN_DIR = "./main.mustache";
-let DATA = {};
+const DATA = {};
 
 function timeSince(date) {
   const seconds = Math.floor(new Date().getTime() / 1000 - date);
