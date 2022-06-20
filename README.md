@@ -1,1 +1,1 @@
-Right now, I&#39;m listening to  Billie Holiday - Crazy He Calls Me
+8 minutes ago, I listened to  Billie Holiday - Blue Moon
