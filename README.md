@@ -1,1 +1,1 @@
-7 minutes ago, I listened to  Brian Eno - Golden Hours
+Right now, I&#39;m listening to  The Everly Brothers - Love Hurts
