@@ -1,2 +1,2 @@
 <img src="src/thumbnail.png"> </img>
-7 minutes ago, I listened to  Melanie Martinez - Cake
+Right now, I&#39;m listening to  Ava Max - Kings &amp; Queens
