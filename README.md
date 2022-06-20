@@ -7,12 +7,7 @@
 
 
 
-
-```bash
-
-
 Currently listening to  [Rebecca Black - Girlfriend](https://google.com)
 
-``` 
 
 </pre></big>
