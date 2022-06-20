@@ -1,6 +1,6 @@
-<img align="left" width="110" height="110" src="https:&#x2F;&#x2F;lastfm.freetls.fastly.net&#x2F;i&#x2F;u&#x2F;174s&#x2F;849eb78d8f7a3beabe3cb40150012317.jpg">
+<img align="left" width="110" height="110" src="https:&#x2F;&#x2F;lastfm.freetls.fastly.net&#x2F;i&#x2F;u&#x2F;174s&#x2F;1d0d01560dc14cf422a801559deba009.png">
 
 <big><pre>
-</br>🎵  7 minutes ago, I listened to  [The Aces - I Can Break Your Heart Too](https://www.youtube.com/results?search_query=The+Aces+I+Can+Break+Your+Heart+Too)</br>
+</br>🎵  Currently listening to  [Sky Ferreira - Everything Is Embarrassing](https://www.youtube.com/results?search_query=Sky+Ferreira+Everything+Is+Embarrassing)</br>
 </pre></big>
 
