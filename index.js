@@ -1,4 +1,3 @@
-// Trash code
 const Mustache = require("mustache");
 const fs = require("fs");
 const fetch = require("node-fetch");
