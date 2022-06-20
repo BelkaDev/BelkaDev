@@ -4,6 +4,6 @@
 
 
 <big><pre>
-</br><p align="left">🎵🎶 Currently listening to <b>[Caroline Rose - Someone New](https://www.youtube.com/results?search_query=Caroline+Rose+Someone+New)</b></p>
+</br><p align="left">🎵🎶 6 minutes ago, I listened to <b>[Caroline Rose - Someone New](https://www.youtube.com/results?search_query=Caroline+Rose+Someone+New)</b></p>
 </pre></big>
 
