@@ -6,5 +6,5 @@
 <big><pre>
 
 
-Currently listening to  [Marina](https://google.com) - [Teen Idle](https://google.com)
+Currently listening to  [Marina - Teen Idle](https://google.com))
 </pre></big>
