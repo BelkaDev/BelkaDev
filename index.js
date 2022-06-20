@@ -1,7 +1,6 @@
 const Mustache = require("mustache");
 const fs = require("fs");
 const fetch = require("node-fetch");
-const request = require("request");
 
 
 const MUSTACHE_MAIN_DIR = "./main.mustache";
