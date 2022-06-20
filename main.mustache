@@ -9,7 +9,6 @@
 
 ```
 
-
 Right now I'm listening to Whatever - whatever
 
 
