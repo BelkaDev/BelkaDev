@@ -5,5 +5,4 @@
 <big><pre>
 
 [`Currently listening to  Ariana Grande - Just Look Up`](https://google.com/)
-
 </pre></big>
