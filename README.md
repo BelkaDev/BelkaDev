@@ -6,6 +6,5 @@
 </br>🎵  Currently listening to  [Caroline Rose - Freak Like Me](https://www.youtube.com/results?search_query=Caroline+Rose+Freak+Like+Me)
 
 </pre></big>
-</br>
 
 ---
