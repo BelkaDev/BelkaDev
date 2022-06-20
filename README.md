@@ -1,1 +1,1 @@
-Right now, I&#39;m listening to  Allie X - Glam!
+Right now, I&#39;m listening to  Rina Sawayama - XS
