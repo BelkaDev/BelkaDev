@@ -95,6 +95,7 @@ function getCurrentSong(callback) {
         .substring(0, 32)
 
 DATA.prefix="🎵"
+DATA.searchQuery = `${theArtist} ${theTitle}`
 DATA.listenText = listenText
 DATA.artist = theArtist
 DATA.title = theTitle
