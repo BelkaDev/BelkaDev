@@ -9,4 +9,4 @@
 </small></pre></big>
 
 ---
-<img src="https://user-images.githubusercontent.com/49416514/174639013-df8a6ddc-3187-4058-9452-867a4756a213.gif" width="12" height="12"/>
+<img alight="right" src="https://user-images.githubusercontent.com/49416514/174639013-df8a6ddc-3187-4058-9452-867a4756a213.gif" width="12" height="12"/>
