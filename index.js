@@ -82,7 +82,7 @@ async function setWeatherInformation() {
         .trim()
         .substring(0, 32);
 
-      DATA.prefix = "🎵🎶";
+      DATA.prefix = "▶️";
       DATA.searchQuery = `${theArtist} ${theTitle}`.replace(/\s+/g, "+");
       DATA.listenText = listenText;
       DATA.artist = theArtist;

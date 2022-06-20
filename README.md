@@ -5,5 +5,5 @@
 </a>
 <big>
     <pre>
-</br><p align="left">🎵🎶 Currently listening to <b><a href="https://www.youtube.com/results?search_query=Japanese+Breakfast+The+Woman+That+Loves+You" target="_blank">Japanese Breakfast - The Woman That Loves You</a> 🔗</b></p>
+</br><p align="left">▶️ Currently listening to <b><a href="https://www.youtube.com/results?search_query=Japanese+Breakfast+The+Woman+That+Loves+You" target="_blank">Japanese Breakfast - The Woman That Loves You</a> 🔗</b></p>
 </pre></big>
