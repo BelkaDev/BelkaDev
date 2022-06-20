@@ -16,5 +16,5 @@ Listening to Whatever - whatever
 
 ```
 </td>
-<td> go </td>
+<td> Listening to Whatever - whatever </td>
 </tr></table>
