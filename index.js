@@ -1,9 +1,9 @@
 // Trash code
 const Mustache = require("mustache");
 const fs = require("fs");
-const MUSTACHE_MAIN_DIR = "./main.mustache";
 const fetch = require("node-fetch");
 request = require("request");
+const MUSTACHE_MAIN_DIR = "./main.mustache";
 
 function getCurrentSong(callback) {
   const that = this;
