@@ -5,6 +5,6 @@
 <big><pre>
 <small>
 </br><p align="center">🎵🎶 Currently listening to <b>[of Montreal - It&#39;s Different for Girls](https://www.youtube.com/results?search_query=of+Montreal+It&#39;s+Different+for+Girls)</b></p>
-<p align="right">text</p>
+<span align="right">text</span>
 </small></pre></big>
 
