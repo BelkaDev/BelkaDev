@@ -81,7 +81,6 @@ function getCurrentSong(callback) {
         const theArtist = theTrack.artist['#text']
         let theTitle = theTrack.name
         let thumbnail = theTrack.image[1]['#text']
-        console.log(thumbnail[1]['#text'])
         const nowPlaying = theTrack['@attr'] && theTrack['@attr'].nowplaying
         let listenText = ''
         if (nowPlaying) {
