@@ -5,5 +5,5 @@
 
 <big><pre>
 
-[`Currently listening to  Allie X - Rings A Bell`](https://google.com/)
+Currently listening to  Allie X - Rings A Bell
 </pre></big>
