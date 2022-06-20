@@ -3,8 +3,16 @@ const Mustache = require('mustache');
 const fs = require('fs');
 const MUSTACHE_MAIN_DIR = './main.mustache';
 const fetch = require('node-fetch');
+request = require('request');
 const XMLHttpRequest = require('xhr2');
 
+/*  function download (uri, filename, callback){
+   console.log('**********************')
+  console.log('URI:'+uri.toString())
+  request.head(uri, function(err, res, body){
+    request(uri).pipe(fs.createWriteStream(filename)).on('close', callback);
+  });
+}; */
 function getCurrentSong(callback) {
     const that = this
     const url =
@@ -93,6 +101,10 @@ function getCurrentSong(callback) {
         .trim()
         .substring(0, 32)
 DATA.listenText = listenText + ' ' + theArtist + ' - '+ theTitle
+console.log(thumbnail)
+/* download(thumbnail, 'thumbnail.png.', function(){
+  console.log('downloaded thumbnail');
+}); */
 DATA.thumbnail = thumbnail;
       });
   }
