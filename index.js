@@ -78,7 +78,7 @@ function getCurrentSong(callback) {
         const nowPlaying = theTrack['@attr'] && theTrack['@attr'].nowplaying
         let listenText = ''
         if (nowPlaying) {
-          listenText = "Listening to "
+          listenText = "Currently listening to "
         } else {
           // converts 9712739817 ms to "4 minute" ago
           let timeSinceText = timeSince(theTrack.date.uts)

@@ -4,6 +4,6 @@
 
 ```
 
-Listening to  Carly Rae Jepsen - I Know You Have a Girlfriend
+Currently listening to  Carly Rae Jepsen - I Know You Have a Girlfriend
 
 ```
