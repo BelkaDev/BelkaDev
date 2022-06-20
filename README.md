@@ -1,1 +1,1 @@
-6 hours ago, I listened to  Dj CUTMAN - Mice in Sweden
+Right now, I&#39;m listening to  Billie Holiday - Crazy He Calls Me
