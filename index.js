@@ -94,7 +94,7 @@ function getCurrentSong(callback) {
         .trim()
         .substring(0, 32)
 
-DATA.prefix="🎶"
+DATA.prefix="🎶 🎵"
 DATA.listenText = listenText
 DATA.artist = theArtist
 DATA.title = theTitle
