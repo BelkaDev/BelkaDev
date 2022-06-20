@@ -7,6 +7,3 @@
 <small>
 </br>🎶🎵  Currently listening to  [Soccer Mommy - Your Dog](https://www.youtube.com/results?search_query=Soccer+Mommy+Your+Dog)</br>
 </small></pre></big>
-
----
-<img alight="right" src="https://user-images.githubusercontent.com/49416514/174639013-df8a6ddc-3187-4058-9452-867a4756a213.gif" width="12" height="12"/>
