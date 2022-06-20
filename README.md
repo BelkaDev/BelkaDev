@@ -6,6 +6,6 @@
 
 
 <big><pre>
-</br><p align="left">🎵🎶 Currently listening to <b>[Japanese Breakfast - Slide Tackle](https://www.youtube.com/results?search_query=Japanese+Breakfast+Slide+Tackle)</b></p>
+</br><p align="left">🎵🎶 Currently listening to <b><a href="https://www.youtube.com/results?search_query=Japanese+Breakfast+Slide+Tackle" target="_blank">Japanese Breakfast - Slide Tackle</a></b></p>
 </pre></big>
 
