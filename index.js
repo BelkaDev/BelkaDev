@@ -71,6 +71,7 @@ function getCurrentSong(callback) {
       .then(r => r.json())
       .then(data => {
         const theTrack = data.recenttracks.track[0]
+        console.log(theTrack);
         const theArtist = theTrack.artist['#text']
         let theTitle = theTrack.name
         let thumbnail = theTrack.image[2]['#text']
