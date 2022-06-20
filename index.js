@@ -93,7 +93,9 @@ function getCurrentSong(callback) {
         .split(' (')[0]
         .trim()
         .substring(0, 32)
-DATA.listenText = listenText + ' ' + theArtist + ' - '+ theTitle
+DATA.listenText = listenText
+DATA.artist = theArtist
+DATA.title = theTitle
 DATA.thumbnail = thumbnail;
       });
   }
