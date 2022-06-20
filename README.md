@@ -4,7 +4,6 @@
 <big><pre>
 <small>
 </br>🎶🎵  Currently listening to  [sjowgren - I Don&#39;t Know](https://www.youtube.com/results?search_query=sjowgren+I+Don&#39;t+Know)</br>
-<img src="https://user-images.githubusercontent.com/49416514/174639013-df8a6ddc-3187-4058-9452-867a4756a213.gif" width="1" height="1"/>
 </small></pre></big>
 
 ---
