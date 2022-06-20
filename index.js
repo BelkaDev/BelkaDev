@@ -55,7 +55,7 @@ function timeSince(date) {
   return Math.floor(seconds) + " second";
 }
 
-async function setWeatherInformation() {
+async function setTrackInformation() {
   await fetch(
     "https://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=belk5&api_key=c68ea49b4e861204b0e6b6607a77c542&format=json&limit=1"
   )
@@ -104,7 +104,7 @@ let DATA = {
   }),
 };
 async function generateReadMe() {
-  await setWeatherInformation();
+  await setTrackInformation();
   fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
     if (err) throw err;
     const output = Mustache.render(data.toString(), DATA);
