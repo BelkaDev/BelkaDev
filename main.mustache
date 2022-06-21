@@ -12,7 +12,7 @@
 ---
 
 Powered by:
-<p>
+
     <img alt="Javascript" src="https://img.shields.io/badge/-javascript-b5a10d?style=flat-rounded&logo=javascript&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-rounded&logo=typescript&logoColor=white" />
     <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-rounded&logo=redux&logoColor=white" />
@@ -20,4 +20,3 @@ Powered by:
     <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-rounded&logo=d3.js&logoColor=white" />
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-rounded&logo=mongodb&logoColor=white" />
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-rounded&logo=Node.js&logoColor=white" />
-  </p>
