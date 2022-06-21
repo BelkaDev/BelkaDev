@@ -11,7 +11,6 @@
 
 ---
 
-<blockquote>
 <p>
     <img alt="Javascript" src="https://img.shields.io/badge/-javascript-b5a10d?style=flat-rounded&logo=javascript&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-rounded&logo=typescript&logoColor=white" />
@@ -21,4 +20,3 @@
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-rounded&logo=mongodb&logoColor=white" />
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-rounded&logo=Node.js&logoColor=white" />
   </p>
-</blockquote>
