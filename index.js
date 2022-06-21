@@ -29,7 +29,7 @@ async function setTrackInformation() {
       const theTrack = data.recenttracks.track[0];
       const theArtist = theTrack.artist["#text"];
       let theTitle = theTrack.name;
-      let thumbnail = theTrack.image[1]["#text"];
+      let thumbnail = theTrack.image[2]["#text"];
       const nowPlaying = theTrack["@attr"] && theTrack["@attr"].nowplaying;
       let listenText = "";
       if (nowPlaying) {
