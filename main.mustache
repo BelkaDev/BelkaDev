@@ -13,7 +13,7 @@
 
 <blockquote>
 <p>
-    <img alt="Javascript" src="https://img.shields.io/badge/-javascript-EFD81D?style=flat-rounded&logo=javascript&logoColor=white" />
+    <img alt="Javascript" src="https://img.shields.io/badge/-javascript-b5a10d?style=flat-rounded&logo=javascript&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-rounded&logo=typescript&logoColor=white" />
     <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-rounded&logo=redux&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-rounded&logo=git&logoColor=white" />
