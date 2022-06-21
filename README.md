@@ -5,7 +5,9 @@
 </a>
 </br>
 <big>
+    <kbd>
 <pre align="center"><img height="14" width="14" src="assets/listening.png"> Currently listening to <b><a href="https://www.youtube.com/results?search_query=Tennis+My+Better+Self" target="_blank">Tennis - My Better Self</a> </b></pre>
+</kbd>
 </big>
 
 
