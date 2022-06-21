@@ -10,4 +10,4 @@
 
 --- 
 
-`<a>#</a>Javascript` `#WebDev` `#Linux`
+![kde](https://user-images.githubusercontent.com/49416514/174805997-3b533591-328d-4d24-854d-d499644b0c9a.png)
