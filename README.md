@@ -13,5 +13,5 @@
 #
 
 <div align="right">
-    <a align="center" href="mailto:belk5@outlook.com">contact</a>
+    <a align="center" href="mailto:belk5@outlook.com"><img src="https://img.shields.io/badge/-contact-blue?style=flat-rounded&logo=contact&logoColor=white"></a>
 </div>
