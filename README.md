@@ -5,5 +5,5 @@
 </a>
 <big>
     <pre>
-</br><p align="left"> 🎵🎶 Currently listening to <b><a href="https://www.youtube.com/results?search_query=of+Montreal+It&#39;s+Different+for+Girls" target="_blank">of Montreal - It&#39;s Different for Girls 🔗</a> </b></p>
+</br><p align="left"> 7 minutes ago, I listened to <b><a href="https://www.youtube.com/results?search_query=of+Montreal+It&#39;s+Different+for+Girls" target="_blank">of Montreal - It&#39;s Different for Girls 🔗</a> </b></p>
 </pre></big>
