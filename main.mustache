@@ -12,7 +12,7 @@
 ---
 
 Powered by:
-<div>
+<p>
 
     <img alt="Javascript" src="https://img.shields.io/badge/-javascript-b5a10d?style=flat-rounded&logo=javascript&logoColor=white" />
 
@@ -29,4 +29,4 @@ Powered by:
 
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-rounded&logo=Node.js&logoColor=white" />
 
-</div>
+</p>
