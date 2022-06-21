@@ -1,5 +1,6 @@
 ### ベルカ
 <big>
+    <pre>
 <table><tr>
     <td>
 
@@ -10,5 +11,5 @@
         </a><p>🎵🎶 31 minutes ago, I listened to <b><a href="https://www.youtube.com/results?search_query=of+Montreal+It&#39;s+Different+for+Girls" target="_blank">of Montreal - It&#39;s Different for Girls</a> 🔗</b></p>
 </pre></big>
 </td></tr></table>
-
+</pre>
 </big>
