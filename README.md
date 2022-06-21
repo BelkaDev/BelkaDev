@@ -11,6 +11,5 @@
 </div>
 
 ---
-<blockquote>
-It's all in the details!
-</blockquote>
+
+<a href="mailto:belk5@outlook.com"></a>
