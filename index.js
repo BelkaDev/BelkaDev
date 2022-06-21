@@ -46,7 +46,7 @@ async function setTrackInformation() {
         .split(" (")[0]
         .trim()
         .substring(0, 32);
-      DATA.listenIcon=`src\/listening${Math.floor(Math.random() * (5 - 1 + 1)) + 1}.png`
+      DATA.listenIcon=`listening${Math.floor(Math.random() * (5 - 1 + 1)) + 1}.png`
       DATA.prefix="🎵🎶 "
       DATA.searchQuery = `${theArtist} ${theTitle}`.replace(/\s+/g, "+");
       DATA.listenText = listenText;
