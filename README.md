@@ -5,5 +5,5 @@
 </a>
 
 </br><br align="left"><img height="16" width="16" src="assets/listening.png"> Currently listening to <b>
-    <a href="https://www.youtube.com/results?search_query=Tennis+In+The+Morning+I’ll+Be+Better" target="_blank">Tennis - In The Morning I’ll Be Better</a> </b></p>
+</br><a href="https://www.youtube.com/results?search_query=Tennis+In+The+Morning+I’ll+Be+Better" target="_blank">Tennis - In The Morning I’ll Be Better</a> </b></p>
 </kbd>
