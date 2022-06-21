@@ -10,3 +10,7 @@
 </li></ul>
 </kbd>
 </div>
+
+---
+
+Web apps, Javascript, Linux, Cloud, Security and other computer stuff.
