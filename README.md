@@ -5,12 +5,13 @@
     <img align="left" width="92" height="92" src="https:&#x2F;&#x2F;lastfm.freetls.fastly.net&#x2F;i&#x2F;u&#x2F;174s&#x2F;cbf1dee4189770223d517c4e2b4b6d2e.jpg">
 </a>
 </br></br></br>
-<b><p align="center"><img height="14" width="14" src=https:&#x2F;&#x2F;github.com&#x2F;BelkaDev&#x2F;BelkaDev&#x2F;blob&#x2F;master&#x2F;assets&#x2F;listening1.png?raw&#x3D;true> Currently listening to <a href="https://www.youtube.com/results?search_query=Japanese+Breakfast+Boyish" target="_blank">Japanese Breakfast  - Boyish</a> </b></p>
+<b><p align="center"><img height="14" width="14" src=https:&#x2F;&#x2F;github.com&#x2F;BelkaDev&#x2F;BelkaDev&#x2F;blob&#x2F;master&#x2F;assets&#x2F;listening3.png?raw&#x3D;true> Currently listening to <a href="https://www.youtube.com/results?search_query=Japanese+Breakfast+Boyish" target="_blank">Japanese Breakfast  - Boyish</a> </b></p>
 </kbd>
 </div>
 
 ---
 
+<blockquote>
 <p>
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-rounded&logo=react&logoColor=white" />
     <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-rounded&logo=webpack&logoColor=white" /> 
@@ -38,3 +39,4 @@
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-rounded&logo=mongodb&logoColor=white" />
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-rounded&logo=Node.js&logoColor=white" />
   </p>
+</blockquote>
