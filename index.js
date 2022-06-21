@@ -46,7 +46,8 @@ async function setTrackInformation() {
         .split(" (")[0]
         .trim()
         .substring(0, 32);
-      DATA.listenIcon=`listening${Math.floor(Math.random() * (5 - 1 + 1)) + 1}`
+      const rndIcon=`listening${Math.floor(Math.random() * (5 - 1 + 1)) + 1}.png`
+      DATA.listenIcon=`https://github.com/BelkaDev/BelkaDev/blob/master/assets/${rndIcon}?raw=true`
       DATA.prefix="🎵🎶 "
       DATA.searchQuery = `${theArtist} ${theTitle}`.replace(/\s+/g, "+");
       DATA.listenText = listenText;
