@@ -8,7 +8,7 @@
 
 
 <blockquote>
-    <pre><code>  foo
+    <pre><code>  Currently listening to 
     </code></pre>
     </blockquote>
     
