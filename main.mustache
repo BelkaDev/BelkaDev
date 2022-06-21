@@ -11,4 +11,4 @@
 
 ---
 
-Javascript / UI/UX / Opensource / Automation / Security
+Javascript / Design / Opensource / Automation / Security
