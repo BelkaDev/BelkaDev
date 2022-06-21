@@ -10,3 +10,7 @@
         </a><p>🎵🎶 27 minutes ago, I listened to <b><a href="https://www.youtube.com/results?search_query=of+Montreal+It&#39;s+Different+for+Girls" target="_blank">of Montreal - It&#39;s Different for Girls</a> 🔗</b></p>
 </pre></big>
 </td></tr></table>
+
+| <div style="width:290px">property</div> | description                           |
+| --------------------------------------- | ------------------------------------- |
+| `border-bottom-right-radius`            | Defines the shape of the bottom-right |
