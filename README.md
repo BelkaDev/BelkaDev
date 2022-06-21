@@ -11,7 +11,7 @@
 
 ---
 
-Powered by
+Powered by:
 <p>
     <img alt="Javascript" src="https://img.shields.io/badge/-javascript-b5a10d?style=flat-rounded&logo=javascript&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-rounded&logo=typescript&logoColor=white" />
