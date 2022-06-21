@@ -33,7 +33,7 @@ async function setTrackInformation() {
       const nowPlaying = theTrack["@attr"] && theTrack["@attr"].nowplaying;
       let listenText = "";
       if (nowPlaying) {
-        listenText = "🎵🎶 Currently listening to ";
+        listenText = "Currently listening to ";
       } else {
         let timeSinceText = timeSince(theTrack.date.uts);
         if (!timeSinceText.startsWith("1 ")) {
@@ -46,7 +46,7 @@ async function setTrackInformation() {
         .split(" (")[0]
         .trim()
         .substring(0, 32);
-
+      DATA.prefix="🎵🎶 "
       DATA.searchQuery = `${theArtist} ${theTitle}`.replace(/\s+/g, "+");
       DATA.listenText = listenText;
       DATA.artist = theArtist;
