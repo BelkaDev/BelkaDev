@@ -7,7 +7,3 @@
     <pre>
 </br><p align="left"> 16 minutes ago, I listened to <b><a href="https://www.youtube.com/results?search_query=Arthur+Woof+Woof" target="_blank">Arthur - Woof Woof</a> 🔗</b></p>
 </pre></big>
-
---- 
-
-<img height="32" width="32" src="https://user-images.githubusercontent.com/49416514/174805997-3b533591-328d-4d24-854d-d499644b0c9a.png">
